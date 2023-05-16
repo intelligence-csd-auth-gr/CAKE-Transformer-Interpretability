@@ -6,7 +6,7 @@ This GitHub contains the code of the experiments for our paper, and an example o
 
 <table align="center" cellspacing="0" cellpadding="0" style="border-collapse: collapse !important; border: none !important;">
     <tr style="border: none !important;">
-        <td style="border: none !important;"> <img src="DALLE2-logo.png" width="280"  height="280"></td>
+        <td style="border: none !important;"> <img src="DALLE2-logo.png" width="290"  height="290"></td>
         <td align="center" style="border: none !important;"><p><h3>CAKE Tranformers Interpretability</h3><h5>Classifications are keyphrase explainable! Exploring local interpretability of transformer models with keyphrase extraction</h5></p></td>
     </tr>
 </table>
